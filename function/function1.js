@@ -4,4 +4,3 @@ function greetingToeveryone(){
     console.log("Good Morning!");
 }
 greetingToeveryone()
-greetingToeveryone()
